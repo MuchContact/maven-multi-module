@@ -1,2 +1,6 @@
 target
 /tomcat.8080
+.idea
+*.class
+/lib/
+*.iml
